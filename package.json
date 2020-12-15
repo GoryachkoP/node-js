@@ -25,5 +25,8 @@
   "homepage": "https://github.com/GoryachkoP/node-js#readme",
   "dependencies": {
     "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
