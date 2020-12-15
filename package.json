@@ -1,0 +1,29 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Node JS. Express course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoryachkoP/node-js.git"
+  },
+  "keywords": [
+    "JS",
+    "Node",
+    "JS",
+    "NPM",
+    "Git"
+  ],
+  "author": "Goryachko Pavlo <gorpashchenko@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoryachkoP/node-js/issues"
+  },
+  "homepage": "https://github.com/GoryachkoP/node-js#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
